@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cute Animals</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_api_information">API information</string>
+    <string name="label_api_information">API Information</string>
+    <string-array name="types_animals">
+        <item>Cat</item>
+        <item>Dog</item>
+    </string-array>
+</resources>
